@@ -1,0 +1,7 @@
+streamlit
+easyocr
+opencv-python-headless
+google-generativeai
+python-dotenv
+pandas
+plotly
